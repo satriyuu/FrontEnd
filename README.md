@@ -1,6 +1,6 @@
 # Front end
 
-[**Ketuk saya untuk membuka project**](#)
+[**Ketuk saya untuk membuka project**](http://localhost:5173/)
 
 ## Fitur-fitur:
 
