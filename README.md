@@ -12,7 +12,7 @@
 ## Screenshot:
 
 1. **Halaman Depan User**:
-   ![Halaman Depan User](path/to/screenshot1.png)
+   ![Halaman Depan User](screenshot/1.png)
 
 2. **Experience (Skill dan Pengalaman Berkependidikan)**:
    ![Experience](path/to/screenshot2.png)
