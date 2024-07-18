@@ -15,7 +15,7 @@
    ![Halaman Depan User](screenshot/1.png)
 
 2. **Experience (Skill dan Pengalaman Berkependidikan)**:
-   ![Experience](path/to/screenshot2.png)
+   ![Experience](screenshot/2.png)
 
 3. **Tabel Pengunjung**:
-   ![Tabel Pengunjung](path/to/screenshot3.png)
+   ![Tabel Pengunjung](screenshot/3.png)
