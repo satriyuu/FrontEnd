@@ -19,3 +19,9 @@
 
 3. **Tabel Pengunjung**:
    ![Tabel Pengunjung](screenshot/3.png)
+
+   ## Langkah Instalasi :
+
+1. npm install
+2. npm run dev
+3. buka web pada browser
