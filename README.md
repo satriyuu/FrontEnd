@@ -22,6 +22,6 @@
 
    ## Langkah Instalasi :
 
-1. npm install
-2. npm run dev
-3. buka web pada browser
+- npm install
+- npm run dev
+-  buka web pada browser
