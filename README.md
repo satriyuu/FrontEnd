@@ -7,7 +7,7 @@
 1. **Data Profil**: Informasi lengkap mengenai profil pengguna.
 2. **Skill yang Dimiliki**: Daftar keterampilan dan kemampuan yang dimiliki.
 3. **Pendidikan**: Riwayat pendidikan pengguna.
-4. **Daftar Pengunjung Web**: Informasi mengenai pengunjung situs web.
+4. **Daftar Member Project**: Informasi mengenai member project ini.
 
 ## Screenshot:
 
