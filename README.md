@@ -18,7 +18,7 @@
    ![Experience](screenshot/2.png)
 
 3. **Tabel Pengunjung**:
-   ![Tabel Pengunjung](screenshot/3.png)
+   ![Tabel Pengunjung](screenshot/4.png)
 
    ## Langkah Instalasi :
 
